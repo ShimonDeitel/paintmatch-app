@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "PaintMatch Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub_1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Record the exact paint brand, color name, and code used in every room so touch-ups always match.",
+              "displayName": "PaintMatch Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.paintmatch.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "PaintMatch Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
